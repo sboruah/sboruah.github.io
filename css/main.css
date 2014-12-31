@@ -467,12 +467,13 @@ body.page-about {
 }
 
 .about-text {
-	width: 1083px;
+	width: 1040px;
 /*	background-color: black;*/
 	background-size: 12px;
 	line-height: 25px;
 	position: absolute;
 	top: 40%;
+
 
 }
 
