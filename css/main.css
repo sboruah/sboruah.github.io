@@ -152,6 +152,7 @@ nav.primary ul li.contact a {background:url('../img/ic-contact.png') no-repeat c
 	margin: 0 0 px;
 	position: relative;
 	left: 291.5px;
+	text-align: center;	
 	line-height: 530px;
 }
 
@@ -535,7 +536,7 @@ body {
 	opacity: 0;
 }
 
-.grid figcaption {
+/*.grid figcaption {
 	color: #efefef;
 	background: #74728E;
 	font-family: 'archive', sans-serif;
@@ -544,7 +545,7 @@ body {
 	line-height: 14px;
 	padding: 17px 10px;
 	text-align: right;
-}
+}*/
 
 .grid .placeholder {
 	pointer-events: none;
@@ -593,6 +594,7 @@ body {
 .grid figure img {
 	display: block;
 	width: 100%;
+	margin-bottom: 50px;
 }
 
 .content,
